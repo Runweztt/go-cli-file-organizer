@@ -1,0 +1,7 @@
+# Built binaries
+fm
+fm.exe
+ 
+# Test playgrounds
+pg/
+demo/
